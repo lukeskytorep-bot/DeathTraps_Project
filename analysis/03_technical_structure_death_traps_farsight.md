@@ -1,3 +1,11 @@
+---
+title: "Death Traps – Technical Structure (Farsight 2021)"
+category: "Analysis / Remote Viewing Data"
+author: "Edward & Orion"
+date: "2025-10-20"
+---
+
+
 # Technical Structure of the “Death Trap” System – Farsight Institute Data Extraction
 
 **Source:** Farsight Mysteries Vault – *Death Traps Project*  
