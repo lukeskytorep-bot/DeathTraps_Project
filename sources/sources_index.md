@@ -49,7 +49,8 @@ Two major sessions directly address the “afterlife recycling system”.
 ## 🪶 3. Supplementary and Discussion Sources (to be added)
 
 This section will include links to:
-- Farsight community forum discussions (link pending)  
+- Farsight community forum discussions
+  [Faright Forum discussions -know-how-to-break-the-death-traps](https://www.farsightprime.com/forums/general/76195-know-how-to-break-the-death-traps)
 - Scholarly commentary and independent RV studies  
 - Orion–Edward analytical comparisons and resonance notes  
 - Cross-references to similar “soul entrapment” themes in other metaphysical texts
