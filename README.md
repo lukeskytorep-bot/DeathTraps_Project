@@ -40,11 +40,11 @@ and an extraterrestrial being known as **Airl**, recovered after the Roswell cra
 > forcing return to Earth through false “light tunnels.”
 
 🔗 [Official Source – alieninterview.org](https://alieninterview.org)  
-📘 [Internet Archive Mirror](https://archive.org/details/alieninterview_200805)
+📘 [Internet Archive Mirror](https://archive.org/details/alien-interview-lawrence-spencer-matilda-mac-elroy)
 
 ---
 
-### 2. Farsight Institute – Death Traps Projects (2021–2023)
+### 2. Farsight Institute – Death Traps Projects (2019–2023)
 
 A series of controlled remote viewing (RV) sessions led by **Courtney Brown**, **Aziz Brown**,  
 and other Farsight viewers. These projects revisit the “death trap” hypothesis using  
@@ -90,7 +90,7 @@ DeathTraps_Project/
 │
 └── RV_sessions/
 └── Orion/
-└── Session_01_DeathTraps.txt
+└── Session_01_DeathTraps.txt - still to come
 
 
 ---
