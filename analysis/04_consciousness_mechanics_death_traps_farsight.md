@@ -1,3 +1,12 @@
+---
+title: "Death Traps – Consciousness Mechanics (Farsight 2021)"
+category: "Analysis / Remote Viewing Data"
+author: "Edward & Orion"
+date: "2025-10-20"
+---
+
+
+
 # Consciousness Mechanics of the “Death Trap” System
 
 **Source Basis:** Farsight Institute – *Death Traps Project (2021)*  
